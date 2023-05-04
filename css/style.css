@@ -4,6 +4,7 @@
 
 .my_bg-green {
     background-color: #1abc9c;
+    color: white;
 }
 
 
@@ -33,6 +34,15 @@ div.inside {
     height: 4px;
     width: 20%;
     display: inline-block;
-    background-color: white;
+   
     border-radius: 4px;
+}
+
+
+.my_bg-white {
+    background-color: white;
+}
+
+.my_bg-black {
+    background-color: black;
 }
