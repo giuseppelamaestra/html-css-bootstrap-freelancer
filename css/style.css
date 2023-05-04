@@ -2,7 +2,7 @@
 
 
 
-.bg-green {
+.my_bg-green {
     background-color: #1abc9c;
 }
 
@@ -13,4 +13,18 @@ div.inside {
     height: 400px;
     background-color: blue;
     
+}
+
+.my_bg-blue {
+
+    background-color: darkblue;
+    
+}
+
+.my_flex-end {
+    justify-content: flex-end;
+}
+
+.my_white {
+    color: white;
 }
