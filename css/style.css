@@ -28,3 +28,11 @@ div.inside {
 .my_white {
     color: white;
 }
+
+.my_bar {
+    height: 4px;
+    width: 20%;
+    display: inline-block;
+    background-color: white;
+    border-radius: 4px;
+}
