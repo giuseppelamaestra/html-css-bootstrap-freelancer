@@ -54,3 +54,16 @@ section.jumbo div img {
 .my_bg-darkblue {
     background-color: #2c3e50;
 }
+
+
+footer {
+    color: white;
+}
+
+.my_circlei {
+    height: 30px;
+    width: 30px;
+    border: solid 1px white;
+    border-radius: 50%;
+    text-align: center;
+}
