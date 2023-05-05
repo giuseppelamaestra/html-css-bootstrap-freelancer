@@ -81,3 +81,9 @@ footer {
     border: solid 1px white;
     border-radius: 10px;
 }
+
+.my_buttonsend {
+    background-color: #1abc9c;
+    color: white;
+    width: 10%;
+}
