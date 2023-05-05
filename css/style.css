@@ -67,3 +67,17 @@ footer {
     border-radius: 50%;
     text-align: center;
 }
+
+button {
+    
+   
+    color: white;
+    padding: .5rem;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 1rem;
+    background-color: transparent;
+    border: solid 1px white;
+    border-radius: 10px;
+}
